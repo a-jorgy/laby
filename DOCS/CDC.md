@@ -43,7 +43,7 @@
 - sol
 - sol fragile
 - rochers
-- echelles
+- echelles (vers le haut, vers le bas)
 - particules d'efforts
 - brouillard
 - Barre de progression pour les étages
