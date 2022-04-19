@@ -1,4 +1,4 @@
-# Cahier des cherges du projet
+# Cahier des charges du projet
 
 ## Principe du jeu
 - On incarne le minautor qui a pour but de s'échapper du labyrinthe
