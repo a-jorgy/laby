@@ -40,8 +40,10 @@
 - objets (torches allumé, torche éteinte, carte, baguette de vent, ...)
 - murs
 - murs fragiles
+- murs cassé
 - sol
 - sol fragile
+- sol cassé
 - rochers
 - echelles (vers le haut, vers le bas)
 - particules d'efforts
