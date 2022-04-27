@@ -1,0 +1,21 @@
+# Index de tous les composants du jeu
+
+## Tuiles :
+  0 : Sol
+  1 : Mur
+  2 : Entrée
+  3 : Sortie
+  4 : Echelle montante
+  5 : Echelle descendante
+  6 : Sol fissuré
+  7 : Mur fissuré
+  
+## Objets :
+  0 : Torche
+  1 : Carte
+  2 : Baguette du vent
+  
+## Entités :
+  0 : Rocher
+  1 : Humain
+  2 : Fantôme
