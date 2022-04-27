@@ -9,6 +9,8 @@
   5 : Echelle descendante
   6 : Sol fissuré
   7 : Mur fissuré
+  8 : Sol cassé
+  9 : Mur cassé
   
 ## Objets :
   0 : Torche
